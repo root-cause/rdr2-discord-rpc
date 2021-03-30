@@ -20,7 +20,7 @@
 
    Shows your current honor as a small icon. If you have both activity display and honor display enabled, activity icon overrides honor icon when you're doing an activity.
 
-* Elapsed time display
+* Elapsed time display *(optional)*
 
 # Preview images
 
