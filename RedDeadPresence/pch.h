@@ -1,0 +1,13 @@
+#pragma once
+#include <string>
+#include <fstream>
+#include <fmt/format.h>
+#include <spdlog/spdlog.h>
+#include <spdlog/sinks/basic_file_sink.h>
+#include "json.hpp"
+#include "discord_rpc.h"
+#include "main.h"
+#include "types.h"
+#include "nativeCaller.h"
+#include "natives.h"
+#include "joaat.h"

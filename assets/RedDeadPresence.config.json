@@ -1,0 +1,8 @@
+{
+  "discordAppId": "819521582966898709",
+  "updateInterval": 15000,
+  "displayHonor": true,
+  "displayActivity": true,
+  "displayMissionName": true,
+  "displayElapsedTime": true
+}

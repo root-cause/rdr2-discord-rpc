@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RedDeadPresence", "RedDeadPresence\RedDeadPresence.vcxproj", "{AB0011AA-82EC-405C-9D1A-1744208BF9BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0011AA-82EC-405C-9D1A-1744208BF9BA}.Debug|x64.ActiveCfg = Debug|x64
+		{AB0011AA-82EC-405C-9D1A-1744208BF9BA}.Debug|x64.Build.0 = Debug|x64
+		{AB0011AA-82EC-405C-9D1A-1744208BF9BA}.Release|x64.ActiveCfg = Release|x64
+		{AB0011AA-82EC-405C-9D1A-1744208BF9BA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5A62202-AA4C-4168-AE1A-7D35289F00ED}
+	EndGlobalSection
+EndGlobal
